@@ -1,7 +1,7 @@
 <?php
    /*
    Titulo: Meu programa PHP
-   Autor: Bernardino
+   Autor: Isadora
    Data: 14/10/2006
    */
 ?>
